@@ -4,6 +4,7 @@ This repository contains the data and Julia code associated with the publication
 
 > Lauréna Mourand, Clément Ferraina, Salomé Pannefieu, Cyril Aubaud, Charles Le Losq (2026).
 > *Structural and dynamical properties of hydrous magmatic liquids at high pressure: insights from Raman spectroscopy observations during diamond anvil cell experiments.*
+> Submitted to Chemical Geology.
 
 ## Contents
 
@@ -60,8 +61,8 @@ Figures are saved in the `figures/` subfolder created at runtime.
 
 ## License
 
-The data and code in this repository are released under the [Creative Commons Attribution 4.0 International License (CC BY 4.0)](LICENSE).
+The data and code in this repository are released under the [MIT](LICENSE).
 
 ## Citation
 
-If you use this dataset or code, please cite the associated publication (see above) and, if applicable, the Zenodo archive DOI for this repository.
+If you use this dataset or code, please cite the associated publication (see above) and the Zenodo archive DOI for this repository.
