@@ -1,5 +1,7 @@
 # Structural and dynamical properties of hydrous magmatic liquids at high pressure
 
+[![DOI](https://zenodo.org/badge/1352435143.svg)](https://doi.org/10.5281/zenodo.22209627)
+
 This repository contains the data and Julia code associated with the publication:
 
 > Lauréna Mourand, Clément Ferraina, Salomé Pannefieu, Cyril Aubaud, Charles Le Losq (2026).
