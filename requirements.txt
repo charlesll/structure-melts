@@ -1,0 +1,14 @@
+numpy>=2.0
+scipy>=1.11
+pandas>=2.0
+h5py>=3.8
+matplotlib>=3.7
+rampy>=0.6
+openpyxl>=3.1
+ruptures>=1.1.10
+uncertainties
+cmcrameri
+gvar>=13.1
+lsqfit>=13.3
+gpvisc==0.3.5
+scikit-learn
